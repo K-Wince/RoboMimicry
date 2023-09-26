@@ -10,9 +10,9 @@ This won the 2023 IEEE ONU Student Branch Most Innovative Award - 1st Place.
 
 #### Pictures
 
-<img src="https://github.com/K-Wince/RoboMimicry/assets/89599862/831b65ad-c910-4d33-b029-a99b9a3fc181" width="25%" height="25%">
-<img src="https://github.com/K-Wince/RoboMimicry/assets/89599862/151854e0-c085-42b7-997f-f66b8e880467" width="49%" height="100%">
-<img src="https://github.com/K-Wince/RoboMimicry/assets/89599862/75fdbd0a-b8f7-4e7b-b71f-a66475a348a9" width="25%" height="25%">
+<img src="https://github.com/K-Wince/RoboMimicry/assets/89599862/831b65ad-c910-4d33-b029-a99b9a3fc181" width="20%" height="25%">
+<img src="https://github.com/K-Wince/RoboMimicry/assets/89599862/151854e0-c085-42b7-997f-f66b8e880467" width="45%" height="100%">
+<img src="https://github.com/K-Wince/RoboMimicry/assets/89599862/75fdbd0a-b8f7-4e7b-b71f-a66475a348a9" width="20%" height="25%">
 
 #### Video
 
